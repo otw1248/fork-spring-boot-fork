@@ -12,19 +12,6 @@
     # pkgs.nodejs_20
     # pkgs.nodePackages.nodemon
     pkgs.zulu17
-    #linux common commands
-    pkgs.git
-    pkgs.wget
-    pkgs.curl
-    pkgs.unzip
-    pkgs.zip
-    pkgs.htop
-    pkgs.tree
-    pkgs.jq
-    pkgs.pv
-    pkgs.bash
-    pkgs.findutils #find
-    pkgs.grep
     pkgs.libuuid.bin #whereis
   ];
 
